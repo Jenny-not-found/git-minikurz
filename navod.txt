@@ -86,3 +86,12 @@ https://github.com/Pidli/git-minikurz
 
 //kdyz forkujete a chcte originalnu autorovi nabidnout svuj kod, tak provedete commit a originalnimu autorovi pak poslete "pull request"
 //autor se na vas pull request podiva a bud provede merge nebo pull request zrusi
+
+//nektere soubory chceme permanente zaignorvat, aby je git vubec nevidel a nepocital s nima
+//vetsinou jsou to configuracni soubor nebo slozka vendor nebo soubor s hesly
+
+//vytovrime si soubor, ktery se jmenuje .gitignore
+//v tomto souboru uvedeme vsechyn soubory a slozky, ktere git neuvidi
+
+//na kadzy radek ivezede nazev souboru nebo slozky
+//pokud je to slozka tka to musi skoncit /
