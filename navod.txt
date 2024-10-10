@@ -95,3 +95,9 @@ https://github.com/Pidli/git-minikurz
 
 //na kadzy radek ivezede nazev souboru nebo slozky
 //pokud je to slozka tka to musi skoncit /
+
+//co je to github pages?
+//sluzba githubu, kde muzete hostovat sve staticke stranky
+//1) projekt musi byt public
+//2) musit to byt staticka stranka (zadne PHP jenom HTML, CSS, JS)
+//3) index.html musi byt v korenove slozce (pokud je vas index vnoreny v podslozce, tak existuje trik, kdy vlozide do korenoveho adresare jiny index.html, ktery uzivatele odkaze na index unvitr podlozky)
